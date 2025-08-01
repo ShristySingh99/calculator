@@ -83,7 +83,6 @@ body {
 
 /* Optional: Change '!' button (2nd last) to look like delete */
 .button:nth-last-child(2)::before {
-   content: '⌫';  /* replaces the ! visually */
    font-size: 1.2rem;
    display: inline-block;
 }
